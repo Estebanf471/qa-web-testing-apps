@@ -35,4 +35,3 @@ Los errores detectados durante la ejecución de pruebas fueron registrados en Ji
 
 🔗 [Ver errores reportados en Jira](https://estebanf471.atlassian.net/jira/software/c/projects/TS/issues?jql=project+%3D+%22TS%22+ORDER+BY+created+DESC)
 
-## 📁 Estructura del repositorio
